@@ -1,0 +1,10 @@
+{
+  "name": "Spam Remover",
+  "slug": "spam-remover",
+  "version": "1.1.0",
+  "author": "Mohamed Taman",
+  "author_profile": "https://github.com/tamanm",
+  "homepage": "https://github.com/tamanm/spam-remover",
+  "description": "Removes spam and loads admin assets.",
+  "download_url": "https://github.com/tamanm/spam-remover/archive/refs/heads/main.zip"
+}
